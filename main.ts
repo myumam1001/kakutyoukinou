@@ -1,7 +1,11 @@
-namespace hello {
+/**
+ * Provides access to basic micro:bit functionality.
+ */
+//% color=190 weight=100 icon="\uf1ec" block="Basic Blocks"
+namespace 拡張機能 {
     //% block
     export function helloWorld() {
-        basic.showString("hello!")
+        basic.showString("Hello!")
 
     }
 
@@ -12,4 +16,5 @@ namespace hello {
     export function camlCaseTwo() {
 
     }
+    
 }
