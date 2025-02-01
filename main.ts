@@ -1,7 +1,3 @@
-/**
- * Provides access to basic micro:bit functionality.
- */
-//% color=190 weight=100 icon="\uf492" block="Basic Blocks"
 namespace 拡張機能 {
     //% block
     export function helloWorld() {
